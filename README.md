@@ -1,4 +1,4 @@
-||Math Game Project
+--- Math Game Project ---
 --
 How To Play?
 --
